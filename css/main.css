@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  background-color: #2A2D34;
+}
+
+.break-word {
+  word-wrap: break-word;
+}
+
+.tweets {
+    margin: 10px;
+    padding: 10px;
+    background-color: #E3F2FD;
+    color: #5D737E;
+    border-radius: 15px;
+    box-shadow: 0 0 4px 4px #427AA1;
+}
+
+.tweets > div {
+  background-color: #E3F2FD;
+  color: #5D737E;
+}
+
+.tweets > div > h5 {
+  background-color: #E3F2FD;
+  color: #5D737E;
+}
+
+.tweets > h6 {
+  background-color: #E3F2FD;
+  color: #5D737E;
+}
